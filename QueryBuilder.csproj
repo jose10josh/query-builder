@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Tipi.Tools.QueryBuilder</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>tipi(code)</Authors>
+    <Product>QueryBuilder</Product>
+    <Description>This class is used to build dynamic queries.</Description>
+    <Copyright>© tipicode | all rights reserved</Copyright>
+    <PackageProjectUrl>https://docs.codingtipi.com/docs/toolkit/query-builder</PackageProjectUrl>
+    <PackageIcon>tipi.png</PackageIcon>
+    <RepositoryUrl>https://github.com/TipiCode/query-builder</RepositoryUrl>
+    <PackageTags>c#;Mysql</PackageTags>
+    <PackageReleaseNotes>First Release</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <AssemblyName>Tipi.Tools.Sql</AssemblyName>
+    <RootNamespace>Tipi.Tools.Sql</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Assets\tipi.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
