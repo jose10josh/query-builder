@@ -4,8 +4,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/TipiCode/query-builder.svg)](https://github.com/TipiCode/query-builder/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/TipiCode/query-builder.svg)](https://github.com/TipiCode/query-builder/releases)
-[![Nuget package](https://img.shields.io/nuget/dt/Tipi.Tools.HttpRequestHandler)](https://img.shields.io/nuget/dt/Tipi.Tools.HttpRequestHandler)
-[![Nuget package](https://img.shields.io/nuget/v/Tipi.Tools.HttpRequestHandler)](https://img.shields.io/nuget/v/Tipi.Tools.HttpRequestHandler)
+[![Nuget package](https://img.shields.io/nuget/dt/Tipi.Tools.QueryBuilder)](https://img.shields.io/nuget/dt/Tipi.Tools.QueryBuilder)
+[![Nuget package](https://img.shields.io/nuget/v/Tipi.Tools.QueryBuilder)](https://img.shields.io/nuget/v/Tipi.Tools.QueryBuilder)
 
 This handler is part of a series of Toolkits developed to interface with ASP.NET Core classes in order to reduce codebase.
 
